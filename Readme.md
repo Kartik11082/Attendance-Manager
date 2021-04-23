@@ -81,5 +81,5 @@ PASSWORD = "Example_Password"
 #### Contributors:
 - [Manish Jalui](https://github.com/manishjalui11)
 - [Kartik Karkera](https://github.com/Kartik11082)
-- [Sandeep Shanbhag](https://github.com/)
+- [Sandeep Shanbhag](https://github.com/sandeep-2002)
 - [Tanvi Parab](https://github.com/)
